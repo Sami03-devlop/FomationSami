@@ -462,8 +462,8 @@ nav .logo {
 }
 
 .sub-menu li a:hover {
-  background: #f7e6d4;
-  color: #c75c1e;
+  background: #abaaaa;
+  color: #ffffff;
   border-radius: 1px;
 }
 .nav-item2 {
@@ -476,5 +476,6 @@ nav .logo {
   transform: translateY(0);
   transform: translateX(-20%);
 }
+
 
 
